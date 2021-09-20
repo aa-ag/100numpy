@@ -7,3 +7,4 @@ Taking [100+ Exercises - Python Programming - Data Science - NumPy](https://www.
 - `conda create -n 100numpy`
 - `conda activate 100numpy`
 - `conda install -c anaconda python`
+- `conda install -c anaconda numpy`
