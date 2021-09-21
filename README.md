@@ -11,3 +11,11 @@ Note: going with jupyer notebook as it'll be more readable to have 10 problems i
 - `conda install -c anaconda python`
 - `conda install -c anaconda numpy`
 - `conda install -c anaconda jupyter`
+- `conda install -c conda-forge jupyterthemes`
+
+#### theme edit
+
+```
+jt -l
+jt -t solarizedd
+```
