@@ -2,7 +2,7 @@
 
 Taking [100+ Exercises - Python Programming - Data Science - NumPy](https://www.udemy.com/course/100-exercises-python-programming-data-science-numpy/) on Udemy.
 
-Note: going with jupyer notebook as it'll be more readable to have 10 problems in each workbook.
+__Note__: going with jupyer notebook as it'll be more readable to have 10 problems in each workbook.
 
 ### env
 
